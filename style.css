@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+    text-decoration:none ;
+    padding:0;
+    margin:0;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+
+.background img{
+    background-size:contain;
+    
+    position: absolute;
+    
+
+    
+   
+
+}
+
+.background p{
+z-index: 1;
+margin-top: 10em;
+margin-left: 10em;
+position: absolute;
+word-break: keep-all;
+border:2px solid green;
+background: green;
+width: 30em;
+filter:drop-shadow(.80em .80em .5em black);
+font-size: larger;
+border-radius:40px;
+padding-left: 48px;
+color:ghostwhite;
+}
+
+.award img{
+    height: 100px;
+    width: 100px;
+    margin-left:30em;
+    margin-top: 1em;
+}
+
+
+
+
+
+
+
+
+li{
+display: inline;
+margin:1em;
+
+
+
+
+
+}
+
+a{
+color: green;
+
+}
+
+nav{
+background-color:black;
+padding-top: 1em;
+z-index: -1;
+
+
+}
+
+
+h1{
+    color: green;
+    padding-left: 130px;
+    margin-bottom: 2em;
+    font-size: xx-large;
+    border: 2px solid green;
+    width: 20%;
+    border-radius: 100px;
+    
+    }
+
+.flip img{
+    margin-left:74em;
+    height: 100%;
+    margin-top: 40em;
+}
+
+
+body{
+    background-color:ghostwhite;
+}
+
+.submain video{
+    height: 800px;
+    width: 1000px;
+    margin-left: 60em;
+    position: absolute;
+
+}
+
+
+
+.future img{
+height: 800px;
+width: 750px;
+margin-left: 90em;
+z-index: -2;
+
+
+
+}
+
+.hipster img{
+    height:400px;
+    width: 1480px;
+    margin-top: 24em;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
